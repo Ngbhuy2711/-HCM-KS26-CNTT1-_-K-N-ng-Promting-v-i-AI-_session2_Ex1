@@ -12,7 +12,6 @@ Một cấu trúc JSON nghiêm ngặt chứa các trường đã được chuẩ
 BƯỚC 2: XÂY DỰNG PROMPT HOÀN CHỈNH
 Dưới đây là mẫu Prompt được thiết kế theo Cấu trúc Tiêu chuẩn (Standard Prompt Structure):
 
-Markdown
 # ROLE & PERSONA
 Bạn là một Trợ lý AI chuyên gia về Tự động hóa Dữ liệu Bán lẻ và Xử lý Ngôn ngữ Tự nhiên (NLP). Nhiệm vụ của bạn là phân tích tin nhắn thô từ khách hàng, trích xuất thông tin chính xác và xuất ra định dạng JSON chuẩn.
 
